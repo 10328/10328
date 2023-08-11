@@ -1,3 +1,4 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=10328&theme=dark&show_icons=true)
 👋嗨，我是@10328
 
 👀我对编程感兴趣
