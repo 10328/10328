@@ -1,4 +1,4 @@
-👋嗨，我是@zach-pro
+👋嗨，我是@10328
 
 👀我对编程感兴趣
 
@@ -9,6 +9,6 @@
 📫如何联系我10328@git.com
 
 <!---
-zach-pro/zach-pro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+10328/10328 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
