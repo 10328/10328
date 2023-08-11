@@ -7,7 +7,7 @@
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🧑‍💻 Tech I work on: **.js**, **.java**, **.py**,  **.sql**
 - 👯 We can connect to play games of LoL ♟
-- 📫 My email address: **10328@git.com**
+- 📫 My email address: **git10328@outlook.com**
 
 <p align="center">
 <a href="https://twitter.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="apoorv__tyagi" height="30" width="30" /></a>&nbsp;
